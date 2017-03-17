@@ -1,4 +1,4 @@
-# README-demo
+# markdowm-demo
 ## 这个文件是专门练习和展示Markdown语言用的,只要认真看多敲几遍，markdown很容易上手
 ****
 ###  Author:jay-huangjie
